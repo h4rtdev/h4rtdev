@@ -50,4 +50,4 @@
 
 <hr/>
 
-🏴‍☠️ From [H4rtedev](https://github.com/h4rtdev)
+🏴‍☠️ From [H4rtdev](https://github.com/h4rtdev)
