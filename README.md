@@ -45,7 +45,11 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 ![KALI](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4rtdev&show_icons=true&theme=merko)
+![H4rtdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4rtdev&show_icons=true&theme=merko)
+
+### 🗺️ visitor count
+
+<img src="https://profile-counter.glitch.me/h4rtdev/count.svg" alt="Hello world" />
 
 
 <hr/>
